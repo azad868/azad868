@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-`I'm Azad, Web applicatiion currently working with Drupal.`
+`I'm Azad, Web application developer.`
 
 
 **Languages and Tools:**  
