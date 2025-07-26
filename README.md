@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-`I'm Azad, Web application developer.`
+`I'm Azii, fullstack web application developer.`
 
 
 **Languages and Tools:**  
