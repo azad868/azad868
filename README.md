@@ -6,6 +6,11 @@
 
 **Languages and Tools:**  
 
+PHP
+JS
+SLQ
+
+
 
 
 
